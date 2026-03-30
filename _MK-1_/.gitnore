@@ -1,0 +1,53 @@
+# Autodesk Inventor temporary files
+*.ipj.old
+*.idv
+*.log
+*.err
+
+# Backup files
+OldVersions/
+*.bak
+
+# Design data cache
+Design Data/
+
+# Content Center files (lokální cache)
+Content Center Files/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Autodesk Vault (pokud nepoužíváš Vault, ignoruj)
+*.dwf
+*.dwfx
+
+# Simulation / analysis files
+*.sim
+*.fem
+
+# Render / export outputs
+*.avi
+*.wmv
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# User-specific settings
+*.xml
+*.ini
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
+
+# Visual Studio / jiné IDE (pokud používáš)
+.vs/
+*.user
+*.suo
